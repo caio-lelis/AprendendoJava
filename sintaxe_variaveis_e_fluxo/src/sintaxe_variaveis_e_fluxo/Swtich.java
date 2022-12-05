@@ -3,7 +3,7 @@ package sintaxe_variaveis_e_fluxo;
 public class Swtich {
 	public static void main(String[] args) {
 
-		int mes = 10;
+		int mes = 8;
 
 		switch (mes) {
 		case 1:
